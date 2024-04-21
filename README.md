@@ -24,8 +24,6 @@ Phonix is a mobile application designed to detect AI-powered voice phishing atte
 4. The model analyzes the voice characteristics and identifies potential AI-powered phishing attempts.
 5. The app provides real-time alerts and warnings to the user if a phishing attempt is detected.
 
-<img src="images/splash_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/login.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/verification.png" alt="Login Screen" width="200" /><br>
-
 ## Getting Started
 
 ### Prerequisites
