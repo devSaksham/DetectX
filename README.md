@@ -1,5 +1,6 @@
 # Phonix: AI-powered Anti-Phishing App
-
+<img src="images/splash_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/login.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/verification.png" alt="Login Screen" width="200" /><br>
+<img src="images/home_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/audio_call.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/detection.png" alt="Login Screen" width="200" /><br>
 Phonix is a mobile application designed to detect AI-powered voice phishing attempts in real-time. It leverages the power of TensorFlow for machine learning model creation and Firebase for user authentication and data storage. The app is built using the Flutter framework for a smooth and performant user experience.
 
 ## Features
@@ -22,6 +23,8 @@ Phonix is a mobile application designed to detect AI-powered voice phishing atte
 3. The intercepted audio is fed into the pre-trained TensorFlow model for analysis.
 4. The model analyzes the voice characteristics and identifies potential AI-powered phishing attempts.
 5. The app provides real-time alerts and warnings to the user if a phishing attempt is detected.
+
+<img src="images/splash_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/login.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/verification.png" alt="Login Screen" width="200" /><br>
 
 ## Getting Started
 
