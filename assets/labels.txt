@@ -1,0 +1,3 @@
+0 bg
+1 ai
+2 human
