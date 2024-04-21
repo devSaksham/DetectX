@@ -34,7 +34,7 @@ Phonix is a mobile application designed to detect AI-powered voice phishing atte
 
 1. Clone this repository:
 ```
-git clone https://github.com/<your-username>/Phonix.git
+git clone https://github.com/yashdagar/Phonix.git
 ```
 
 2. Navigate to the project directory:
