@@ -1,7 +1,7 @@
-# Phonix: AI-powered Anti-Phishing App
+# DetectX: AI-powered Anti-Phishing App
 <img src="images/splash_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/login.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/verification.png" alt="Login Screen" width="200" /><br>
-<img src="images/home_screen.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/audio_call.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/detection.png" alt="Login Screen" width="200" /><br>
-Phonix is a mobile application designed to detect AI-powered voice phishing attempts in real-time. It leverages the power of TensorFlow for machine learning model creation and Firebase for user authentication and data storage. The app is built using the Flutter framework for a smooth and performant user experience.
+<img src="images/audio_call.png" alt="Login Screen" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/detection.png" alt="Login Screen" width="200" /><br>
+DetectX is a mobile application designed to detect AI-powered voice phishing attempts in real-time. It leverages the power of TensorFlow for machine learning model creation and Firebase for user authentication and data storage. The app is built using the Flutter framework for a smooth and performant user experience.
 
 ## Features
 
@@ -35,12 +35,12 @@ Phonix is a mobile application designed to detect AI-powered voice phishing atte
 
 1. Clone this repository:
 ```
-git clone https://github.com/yashdagar/Phonix.git
+git clone https://github.com/devSaksham/DetectX.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd Phonix
+cd DetectX
 ```
 
 3. Install dependencies:
@@ -54,7 +54,7 @@ cd Phonix
 
 ## Contributing
 
-We welcome contributions to the Phonix project! You can add pull requests to the code for improvement.
+We welcome contributions to the DetectX project! You can add pull requests to the code for improvement.
 
 ## License
 
